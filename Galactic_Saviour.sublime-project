@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "Galactic_Saviour",
+			"path": "C:\\Users\\00ada\\HaxeFlixelProjects/Galactic_Saviour"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "C:\\HaxeToolkit\\haxe\\lib\\flixel/4,10,0/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "C:\\HaxeToolkit\\haxe\\lib\\flixel-addons/2,11,0/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "C:\\HaxeToolkit\\haxe/std"
+		}
+	]
+}
